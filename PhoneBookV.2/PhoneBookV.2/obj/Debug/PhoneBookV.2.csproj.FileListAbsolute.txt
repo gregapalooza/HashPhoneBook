@@ -1,0 +1,7 @@
+C:\Users\gtvag\source\repos\PhoneBookV.2\PhoneBookV.2\bin\Debug\PhoneBookV.2.exe.config
+C:\Users\gtvag\source\repos\PhoneBookV.2\PhoneBookV.2\bin\Debug\PhoneBookV.2.exe
+C:\Users\gtvag\source\repos\PhoneBookV.2\PhoneBookV.2\bin\Debug\PhoneBookV.2.pdb
+C:\Users\gtvag\source\repos\PhoneBookV.2\PhoneBookV.2\obj\Debug\PhoneBookV.2.csprojAssemblyReference.cache
+C:\Users\gtvag\source\repos\PhoneBookV.2\PhoneBookV.2\obj\Debug\PhoneBookV.2.csproj.CoreCompileInputs.cache
+C:\Users\gtvag\source\repos\PhoneBookV.2\PhoneBookV.2\obj\Debug\PhoneBookV.2.exe
+C:\Users\gtvag\source\repos\PhoneBookV.2\PhoneBookV.2\obj\Debug\PhoneBookV.2.pdb
